@@ -7,6 +7,14 @@ using System.Windows.Forms;
 namespace SysArch_Prelim
 {
     internal static class Program
+
+// sURE oipsssss
+
+// KAYA RANI
+// LABAN LANG!
+//HOTDOG
+//BSIT-3B
+
     {
         /// <summary>
         /// The main entry point for the application.
