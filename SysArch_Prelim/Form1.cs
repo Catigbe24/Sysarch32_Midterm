@@ -10,6 +10,17 @@ namespace SysArch_Prelim
         private MySqlConnection conn;
         private string connString = "server=localhost;database=CollegeDB;uid=root;pwd=root;";
 
+// AGAW
+
+// HELLO
+
+//HAPPY BIRTHDAY
+
+//HANNAH
+//YOHOOO!
+
+//MARVERICK
+
         public Form1()
         {
             InitializeComponent();
