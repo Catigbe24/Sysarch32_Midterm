@@ -338,7 +338,7 @@ namespace SysArch_Prelim
             MessageBox.Show("Data transferred successfully!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
             clear();
         }
-        private void PopulateDepartments(string selectedCollege)
+        private void PopulateDepartments(string selectedCollege) //Revise this code
         {
             cmbDepartment.Items.Clear(); // Clear previous data
 
@@ -433,7 +433,7 @@ namespace SysArch_Prelim
                 }
             }
         }
-
+        //add method for the features
         private void btnLoad_Click(object sender, EventArgs e)
         {
             LoadData();
